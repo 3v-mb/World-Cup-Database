@@ -1,2 +1,2 @@
 # World-Cup-Database
-World Cup Database as a part of the fcc curriculum
+The World Cup Database as a part of the fcc curriculum for the Relational DB course
